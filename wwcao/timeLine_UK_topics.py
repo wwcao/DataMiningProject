@@ -46,6 +46,7 @@ if __name__ == "__main__":
     econ, = plt.plot(datesets[0], data[0], label='Economy')
     gov, = plt.plot(datesets[1], data[1], label='Gov')
     safe, = plt.plot(datesets[2], data[2], label='safety')
-    plt.legend(handles=[econ, gov, safe])
+    handles=[econ, gov, safe]
+    plt.legend(handles)
     plt.gcf().autofmt_xdate()
     plt.show()
