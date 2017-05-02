@@ -33,4 +33,4 @@ Example: Fresh protests erupt in India against the government; use the model to 
 
 ### Links:
 [Final Report](https://github.com/wwcao/DataMiningProject/blob/master/03-NewsAsPredictor_Part4.pdf)  
-[Demo Video](https://www.google.com)  
+[Demo Video](https://github.com/wwcao/DataMiningProject/blob/master/03-NewsAsPredictor_Part5.mp4)  
