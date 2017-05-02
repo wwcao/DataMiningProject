@@ -32,5 +32,5 @@ The model will be used to predict civil conflicts around the world by collecting
 Example: Fresh protests erupt in India against the government; use the model to predict whether the protests would result in change of government or not.
 
 ### Links:
-[Final Report](https://github.com/wwcao/DataMiningProject/edit/master/03-NewsAsPredictor_Part4.pdf)  
+[Final Report](https://github.com/wwcao/DataMiningProject/blob/master/03-NewsAsPredictor_Part4.pdf)  
 [Demo Video](https://www.google.com)  
