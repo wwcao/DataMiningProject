@@ -13,12 +13,13 @@ We will be collecting a series of features from GDELT to evaluate in order to re
 Directory
 ----------
 	.
-  .-------- *.pdf                 Class Submission  
+  	.-------- *.pdf                 Class Submission  
 	+-------- code_data  
     	+------ Data                Datasets  
     	+------ Python              Pytohn script, jupyter notebook  
     	+------ figures             all figures  
     	.------ *.m                 machine learning classification  
+    
     
 ## Questions:  
 1. ~What attributes are insteresting for our project?~  
