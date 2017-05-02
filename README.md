@@ -12,6 +12,7 @@ We will be collecting a series of features from GDELT to evaluate in order to re
 
 Directory
 ----------
+  .
   .-------- *                   Class Submission  
   +-------- code_data  
     +------ Data                Datasets  
