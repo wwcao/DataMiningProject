@@ -25,7 +25,7 @@ Directory
 1. What attributes are insteresting for our project?  
 2. How do the past events behave?  
 3. Are there any connections between the past events and current events? How are they related?  
-4. Would the connection be used to predict the related events?  
+4. How would the connections be used to predict the related events?  
 
 ## Applcation:
 The model will be used to predict civil conflicts around the world by collecting news information about the confilicts.
