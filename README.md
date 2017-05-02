@@ -28,7 +28,8 @@ Directory
 4. ~Would the connection be used to predict the related events?~  
 
 ## Applcation:
-To predict the conflicts of the countries by collecting the global news.
+The model will be used to predict civil conflicts around the world by collecting news information about the confilicts.
+Example: Fresh protests erupt in India against the government; use the model to predict whether the protests would result in change of government or not.
 
 ### Links:
 [Final Report](https://www.google.com)  
