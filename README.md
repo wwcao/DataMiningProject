@@ -22,10 +22,10 @@ Directory
     
     
 ## Questions:  
-1. ~What attributes are insteresting for our project?~  
-2. ~How do the past events behave?~  
-3. ~Are there any connection between the past events and current evnets? And How?~  
-4. ~Would the connection be used to predict the related events?~  
+1. What attributes are insteresting for our project?  
+2. How do the past events behave?  
+3. Are there any connection between the past events and current evnets? And How?  
+4. Would the connection be used to predict the related events?  
 
 ## Applcation:
 The model will be used to predict civil conflicts around the world by collecting news information about the confilicts.
