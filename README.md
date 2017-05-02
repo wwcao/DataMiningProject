@@ -24,7 +24,7 @@ Directory
 ## Questions:  
 1. What attributes are insteresting for our project?  
 2. How do the past events behave?  
-3. Are there any connection between the past events and current evnets? And How?  
+3. Are there any connections between the past events and current events? How are they related?  
 4. Would the connection be used to predict the related events?  
 
 ## Applcation:
